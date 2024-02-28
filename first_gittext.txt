@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+this is added data after commit to check if commit status work or not?........yaya
+=======
 this is added data after commit to check if commit status work or not?........
+<<<<<<< HEAD
 edited to check if brenches changes getting applied or not 
+=======
+edited to check if brenches changes getting applied or not 
+>>>>>>> e5597b5 (done the changesss for branch check)
+>>>>>>> new-scndbranch
